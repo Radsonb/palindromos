@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# polidronos
-=======
 # Número Palíndromicos
 Este é um projeto desenvolvido utilizando Next.js (Frontend) e NestJS (Backend), que busca 
 números palíndromos entre dois números inteiros fornecidos pelo usuário. Um número palíndromo 
